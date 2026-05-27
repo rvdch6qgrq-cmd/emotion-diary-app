@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Дневникэмоций</h1>
+      <h1>Дневник эмоций</h1>
 
       <p className="subtitle">Как ты сейчас себя чувствуешь?</p>
 
